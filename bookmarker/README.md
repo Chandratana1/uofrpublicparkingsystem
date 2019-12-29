@@ -18,10 +18,10 @@ If Composer is installed globally, run
 composer create-project --prefer-dist cakephp/app
 ```
 
-In case you want to use a custom app dir name (e.g. `/myapp/`):
+In case you want to use a custom app dir name (e.g. `/bookmarker/`):
 
 ```bash
-composer create-project --prefer-dist cakephp/app myapp
+composer create-project --prefer-dist cakephp/app bookmarker
 ```
 
 You can now either use your machine's webserver to view the default home page, or start
