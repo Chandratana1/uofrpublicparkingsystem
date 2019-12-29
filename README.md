@@ -20,7 +20,7 @@ Config/app.php
 1. Set the email mode of transport as it works in observer pattern way
 2. Update username, database and password as per your local installation
 
-## Start the Local cake server
+## Start the local cake server
 1. Open cmd
 2. Route it to the bookmarker/bin folder
 3. Run by typing command 'cake server' ( to start the cake server)
