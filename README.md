@@ -16,4 +16,7 @@ Steps to setup
 6. Copy all the files in bookmarker(github ) folder to bookmarker files in desktop
 
 File Changes required
+Config/app.php  
+1. Set the email mode of transport as it works in observer pattern way
+2. Update username, database and password as per your local installation
 
